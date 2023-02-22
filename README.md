@@ -1,7 +1,7 @@
 # ArrayList
 
 ## Description
-This is my Java implementation of ArrayLists using Generics
+Java implementation of ArrayLists using Generics
 
 ## Public Methods Featured:
 - **add**(T element)
