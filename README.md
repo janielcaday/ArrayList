@@ -3,7 +3,7 @@
 ## Description
 This is my Java implementation of ArrayLists using Generics
 
-##Methods Featured:
+## Methods Featured:
 - add(T element)
 - add(int index, T element)
 - remove
